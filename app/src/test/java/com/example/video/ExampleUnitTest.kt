@@ -1,4 +1,4 @@
-package com.example.charts
+package com.example.video
 
 import org.junit.Test
 

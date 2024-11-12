@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.charts"
+    namespace = "com.example.video"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.charts"
+        applicationId = "com.example.video"
         minSdk = 25
         targetSdk = 34
         versionCode = 1
@@ -66,6 +66,4 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation ("com.github.PhilJay:MPAndroidChart:v3.1.0")
-
 }

@@ -1,2 +1,0 @@
-# II.3510_2425_SmallProject_G1_EagalaAnusha_ArulmojiSwetha
-Displaying charts and videos

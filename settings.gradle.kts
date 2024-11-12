@@ -16,9 +16,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven(url = "https://jitpack.io") // corrected quotation marks
     }
 }
 
-rootProject.name = "charts"
+rootProject.name = "video"
 include(":app")
+ 
